@@ -325,3 +325,69 @@ gap:5px;
     background-color: #F948B2;
     cursor: pointer;
 }
+/* footer section */
+.dancer{
+    /* width: 1920px; */
+height: 400px;
+flex-shrink: 0;
+background: #0B0223;
+}
+.dancer .logo-two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    
+}
+.logo-two{
+    gap: 20px;
+}
+.db{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+.chaba{
+    color: #FFF;
+font-size: 18px;
+font-weight: 600;
+line-height: normal;
+}
+.db a{
+    text-decoration: none;
+}
+.mouse{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    gap: 50px;
+    
+    
+}
+.dj{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    
+}
+.dj a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.60);
+}
+.dj:hover{
+    color: #F948B2;
+    cursor: pointer;
+}
+.chek{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.60);
+text-align: center;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+
